@@ -2,7 +2,7 @@
 class Person:
 
     def __init__(self, name):
-        self.__name = name   # Person;s name
+        self.__name = name   # Person's name
 
     @property
     def name(self):
